@@ -51,7 +51,7 @@ Web & Mobile dev and Designer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bbestamis"><img src="https://github-readme-stats.vercel.app/api?username=bbestamis&show_icons=true&hide=stars,issues,&count_private=true&title_color=6366f1&text_color=6366f1&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="bbestamis's GitHub stats" /></a>
+<a align="center" href="http://www.github.com/bbestamis"><img src="https://github-readme-stats.vercel.app/api?username=bbestamis&show_icons=true&hide=stars,issues,&count_private=true&title_color=6366f1&text_color=6366f1&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="bbestamis's GitHub stats" /></a>
 
 <a href="http://www.github.com/bbestamis"><img src="https://activity-graph.herokuapp.com/graph?username=bbestamis&bg_color=1c1917&color=6366f1&line=ec4899&point=6366f1&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
