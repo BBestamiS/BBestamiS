@@ -6,7 +6,7 @@ Web & Mobile dev and Designer
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [bbestamis.com](http://bbestamis.com)
-* ✉️  You can contact me at [info@bbestamis.com](mailto:info@bbestamis.com)
+* ✉️  You can contact me at [info@bbestamis.com](mailto:bestami980@gmail.com)
 * 🧠  I'm learning Svelte
 
 ### Skills
